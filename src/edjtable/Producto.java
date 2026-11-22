@@ -6,7 +6,7 @@ package edjtable;
 
 /**
  *
- * @author Alex Pyve
+ * @author Sarab
  */
 public class Producto {
     

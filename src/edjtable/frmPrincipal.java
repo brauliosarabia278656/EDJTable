@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author usuario
+ * @author Sarab
  */
 public class frmPrincipal extends javax.swing.JFrame {
     
